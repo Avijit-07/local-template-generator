@@ -1,1 +1,5 @@
 /.idea/
+
+# Go build artifacts
+/localTemplate
+/bin/
