@@ -9,7 +9,7 @@ version = "{{.Version}}"
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of({{.JavaVersion}})
+		languageVersion = JavaLanguageVersion.of(25)
 	}
 }
 
