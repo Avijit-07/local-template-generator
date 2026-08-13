@@ -3,3 +3,6 @@
 # Go build artifacts
 /localTemplate
 /bin/
+
+# Gradle Cache
+/templates/base/.gradle/
